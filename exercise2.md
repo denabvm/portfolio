@@ -73,6 +73,12 @@ Red: set alarm mode
 
 Also the other thing that is good to mention is that we need the male wires to add to the specific pins  so all the buttons work properly . 
 
+# Our final task : customized  alarm clock  
+We both were curious and agreed to explore as much as we can , so we  added four functions .  
+<img width="1278" height="1531" alt="ex 2 custome" src="https://github.com/user-attachments/assets/15b7d840-6595-4d3c-b930-4e558f199050" />
+the picture above is our clock with all functions and below i will explain each Individually  
+
+ 
 
 
 
