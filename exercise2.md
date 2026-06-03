@@ -78,8 +78,26 @@ We both were curious and agreed to explore as much as we can , so we  added four
 <img width="1278" height="1531" alt="ex 2 custome" src="https://github.com/user-attachments/assets/15b7d840-6595-4d3c-b930-4e558f199050" />
 the picture above is our clock with all functions and below i will explain each Individually  
 
- 
+ #Decrease minute button 
+we added this button so it would be easier to just  increase or decrease minutes we declared the right pin and in the set-alarm-mode statement we added one more if statement.
+<img width="440" height="588" alt="customize clok if" src="https://github.com/user-attachments/assets/9f7776b8-9240-4aa4-80d7-6eeaa65af757" />
 
+#LED light sync with buzzer 
+
+so we both thought that it would be good if we have a LED light which is synced to buzzer pattern , the pin for LED was 10 and in the code we just put digitalWrite(ledPin,HIGh) under the digitalWrite(buzzerPin,HIGh) and also the same thing for turnning the LED off with LOW command.
+
+
+#Snooze button 
+the function of the blue button is that the ringing would stop for 10 seconds also with displaying on the screen and the ringing will go off continuosly with the blue button . 
+the variable for stopping the ringing is 'alarmCurrentlyRinging'.
+
+
+
+
+#buzzer pattern 
+we really liked to create a total different melody for the buzzer but for that we needed a passive buzzer and ours was a active buzzer . so just changed the buzzer patttern .
+
+we first tried a while-loop but the problem with it was that it would just ring endlessly and none of the buttons (white and blue ) worked for turning it off , so this one faild and we tried millis() to count the millisecond and set acycle time and the button inputs would read through .
 
 
 
