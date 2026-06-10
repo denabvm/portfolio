@@ -29,4 +29,14 @@ so I cut the shape again and the final shape came together like the image below 
 
 then I tried to sew the battery and LEd in parallel but the battery place was not in the best spot and i had to undo the whole thing and sew again !
 
+this time I sewed  in parallel and put two LEd in one side and another three in other side and turned out that one off the LEDs was broken and did not work .
+but the other four worked well and the final work is in the imafe below :
+<img width="520" height="430" alt="photo_2026-06-11_00-16-38" src="https://github.com/user-attachments/assets/99fd6505-c74b-4c8c-b0bf-d4392dd7cdfe" /> 
+
+<img width="520" height="420" alt="photo_2026-06-11_00-16-30" src="https://github.com/user-attachments/assets/28c6c4d2-8531-4ead-9711-880845a4b37e" />
+
+
+
+
+
 
