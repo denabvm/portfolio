@@ -8,4 +8,6 @@ and this is the sketch i did in inkscape at first I tries to come up with two ci
 and my whole sketch had four main layers path 3 as the main circel , path 9 and path 9-5 for candel holes and path 1 for curve 
 <img width="1871" height="887" alt="image" src="https://github.com/user-attachments/assets/fcfcbe23-ddf9-41b0-924c-cafcb3df772f" />
 #miling 
-for the miling at first I wanted to go with the dark wood but then when Juliusz saw my sketch , suggested that it would look cooler to go with dark and white wood . so the final 
+for the miling at first I wanted to go with the dark wood but then when Juliusz saw my sketch , suggested that it would look cooler to go with dark and white wood . so the final milled design looked like this : 
+<img width="2215" height="2560" alt="yin yang" src="https://github.com/user-attachments/assets/bca82fcf-52cf-42fe-b91c-61028c224387" />
+
