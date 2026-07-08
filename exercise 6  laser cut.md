@@ -11,7 +11,7 @@ the text and engravings in the inner rectangel all have the width of 0.2 mm :
 <p align="center">
   <img width="1860" height="847" alt="Business card design with snowflake and flower engravings and Oldenburg University text" src="https://github.com/user-attachments/assets/18391bd2-2910-44c4-b705-8ca3583c6a04" />
 </p>
-<p align="center"><em>Figure 1: The final business card design with the snowflake (top left), flower (bottom right), and mixed-font text.</em></p>
+
 
 # cutting process : 
 *File Preparation and Machine Setup*
@@ -24,8 +24,12 @@ the needle of the calibrated had to be on the starting point as the machine star
 the reason was that the width of the outer layer had to be more and the whole engraving width had to be less than 0.001 
 
 below is the image of setting : 
-<img width="960" height="1280" alt="laser cut setting" src="https://github.com/user-attachments/assets/78f15623-bbc1-4a00-878f-d98533cceddf" />
+<p align="center">
+<img width="500" height="460" alt="laser cut setting" src="https://github.com/user-attachments/assets/468e47b8-bf9c-435d-851c-03f52893399b" />
 
 
 
-and then I tried again and the calibrater started moving .
+and then I tried again and the calibrater started moving  below is another image after the card was engraved :
+<p align="center">
+<img width="600" height="520" alt="laser cut 3" src="https://github.com/user-attachments/assets/27b2e63c-32c4-47f8-b8a6-f857d496f518" />
+
