@@ -9,7 +9,7 @@ for the design I wanted something smooth , light and vibrant so I decided to go 
 as we were informed the outer rectangel had to have a width of 0.001 mm , so the laser cut machine recognize as a outer part to cut through 
 the text and engravings in the inner rectangel all have the width of 0.2 mm :
 <p align="center">
-  <img width="1860" height="847" alt="Business card design with snowflake and flower engravings and Oldenburg University text" src="https://github.com/user-attachments/assets/18391bd2-2910-44c4-b705-8ca3583c6a04" />
+  <img width="500" height="240" alt="Business card design with snowflake and flower engravings and Oldenburg University text" src="https://github.com/user-attachments/assets/18391bd2-2910-44c4-b705-8ca3583c6a04" />
 </p>
 
 
