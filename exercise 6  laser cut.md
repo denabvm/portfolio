@@ -33,3 +33,8 @@ and then I tried again and the calibrater started moving  below is another image
 <p align="center">
 <img width="600" height="520" alt="laser cut 3" src="https://github.com/user-attachments/assets/27b2e63c-32c4-47f8-b8a6-f857d496f518" />
 
+and the final busineess card after removing the sheet : 
+
+<p align="center">
+<img width="600" height="520" alt="final lasercut" src="https://github.com/user-attachments/assets/cf3751aa-4dbc-4942-871d-2c19e1307cfb" />
+
