@@ -6,7 +6,9 @@ everybody needed to choose a material and the most common one was the wooden mat
 
 for the design I wanted something smooth , light and vibrant so I decided to go with a snowflake for left above and a flower for right down as for the written text
  I went for oldenburg university with oldenburg in a different font format and University with a different font as well and with a fake email and phone number for information 
-as Pantea informed us the outer rectangel had to have a width of 0.001 mm , so the laser cut machine recognize as a outer part to cut through 
+as we were informed the outer rectangel had to have a width of 0.001 mm , so the laser cut machine recognize as a outer part to cut through 
 the text and engravings in the inner rectangel all have the width of 0.2 mm :
+<img width="1860" height="847" alt="image" src="https://github.com/user-attachments/assets/18391bd2-2910-44c4-b705-8ca3583c6a04" />
 
+cutting process : 
 
