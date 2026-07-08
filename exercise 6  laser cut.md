@@ -1,8 +1,8 @@
 # Exercise 6: Laser Business Card 
-this exercise was held on June 11th .The concept was laser cutting and creating a business card with a laser cutting machine.
+This exercise was held on June 11th .The concept was laser cutting and creating a business card with a laser cutting machine.
 
 # Designing a Business Card
-everybody needed to choose a material and the most common one was the wood material but I wanted something more unique so I chose acrylic glass .
+Everybody needed to choose a material, and the most common one was wood, but I wanted something more unique, so I chose acrylic glass.
 
 For the design, I wanted something smooth, light, and vibrant so I decided to go with a snowflake in the top left and a flower in the bottom right .
 As for the written text I went for "Oldenburg University"  with oldenburg in a different font format and University with a different font as well and with a fake email and phone number for information 
