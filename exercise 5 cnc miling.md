@@ -1,3 +1,4 @@
+# Exercise 5: CNC Teelight Holder
 The fifth exercise was on 3rd June and the subject was about CNC milling.
 The task was about creating a candle holder with our own design from a wooden block with three options.
 I decided to go with something more unique,so I thought the Yin-Yang symbol might be a good idea.
